@@ -11,7 +11,9 @@
             <file>file:/D:/temp/PIC32MZW1_Curiosity_OOB/src/firmware/src/app_wifi.c</file>
         </group>
         <group>
-            <file>file:/public/PIC32MZW1_Curiosity_OOB-3.0.1/src/firmware/src/config/pic32mz_w1_curiosity/driver/ba414e/src/drv_ba414e.c</file>
+            <file>file:/public/PIC32MZW1_Curiosity_OOB-3.0.1/src/firmware/src/main.c</file>
+            <file>file:/public/PIC32MZW1_Curiosity_OOB-3.0.1/src/firmware/src/msd_app.c</file>
+            <file>file:/public/PIC32MZW1_Curiosity_OOB-3.0.1/src/firmware/src/app_mqtt.c</file>
         </group>
     </open-files>
 </project-private>
