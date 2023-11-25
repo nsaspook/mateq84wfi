@@ -615,12 +615,12 @@ extern "C" {
 
 
 #define SYS_WIFI_MAX_CBS					2
-#define SYS_WIFI_COUNTRYCODE        	   "GEN"
-#define SYS_WIFI_STA_SSID        			"sma2.IOT"
+#define SYS_WIFI_COUNTRYCODE        	   "USA"
+#define SYS_WIFI_STA_SSID        			"newage"
 #define SYS_WIFI_STA_PWD        			"01090203020606050003050003"
 
 
-#define SYS_WIFI_STA_AUTHTYPE				SYS_WIFI_WPAWPA2MIXED 
+#define SYS_WIFI_STA_AUTHTYPE				SYS_WIFI_WPA2WPA3MIXED
 
 
 
